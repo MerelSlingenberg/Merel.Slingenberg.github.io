@@ -1,10 +1,10 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/vendor';
-@import 'libs/breakpoints';
-@import 'libs/html-grid';
-@import 'libs/fixed-grid';
+@import 'vars';
+@import 'functions';
+@import 'mixins';
+@import 'vendor';
+@import 'breakpoints';
+@import 'html-grid';
+@import 'fixed-grid';
 @import 'fontawesome-all.min.css';
 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900');
 
@@ -47,25 +47,25 @@
 
 // Component.
 
-	@import 'components/row';
-	@import 'components/box';
-	@import 'components/button';
-	@import 'components/form';
-	@import 'components/icon';
-	@import 'components/image';
-	@import 'components/actions';
-	@import 'components/icons';
-	@import 'components/list';
-	@import 'components/section';
-	@import 'components/table';
-	@import 'components/pagination';
+	@import 'row';
+	@import 'box';
+	@import 'button';
+	@import 'form';
+	@import 'icon';
+	@import 'image';
+	@import 'actions';
+	@import 'icons';
+	@import 'list';
+	@import 'section';
+	@import 'table';
+	@import 'pagination';
 
 // Layout.
 
-	@import 'layout/wrapper';
-	@import 'layout/intro';
-	@import 'layout/header';
-	@import 'layout/nav';
-	@import 'layout/main';
-	@import 'layout/footer';
-	@import 'layout/navPanel';
+	@import 'wrapper';
+	@import 'intro';
+	@import 'header';
+	@import 'nav';
+	@import 'main';
+	@import 'footer';
+	@import 'navPanel';
